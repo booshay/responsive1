@@ -108,20 +108,13 @@ input[type=button] {
 
 img {
    width: 100%; 
-   margin: 0 2em;
+  
 }
 
 /* Media Queries!!!  */
 
 @media (min-width: 730px) {
-    img {
-        width: 95%; 
-        margin: 0 2em;
-        height: auto;
-     }
-     .bottom p {
-         margin: 0 3em;
-     }
+ 
 }
 
 @media (min-width: 930px) {
