@@ -51,6 +51,9 @@ body {
  margin-top:54px;
 }
 
+h1 {
+    padding-top: 1em;
+}
 h1 span{
     display: block;
     font-size: 1.6rem;
