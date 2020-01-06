@@ -43,9 +43,9 @@ body {
 }
 
 .hero-bg {
- background: url("./assets/photo-1548092372-0d1bd40894a3.jfif");
+ background: linear-gradient(to top, transparent, rgb(0, 0, 0)), url("./assets/photo-1548092372-0d1bd40894a3.jfif");
  background-size: cover; 
- background-position:0px -310px;
+ background-position:0px -320px;
  color: white;
  text-align: center;
  margin-top:54px;
